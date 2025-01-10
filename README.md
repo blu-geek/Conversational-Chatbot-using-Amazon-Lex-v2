@@ -1,11 +1,16 @@
 # Project 2
+
 # Conversational-Chatbot-using-Amazon-Lex-v2
 
 This is a conversational chatbot, valtour that can receive inbound and outbound calls and also chat.
 
+
+
 <img width="798" alt="Amazon Lex Chatbot Development" src="https://github.com/user-attachments/assets/5bb9851c-4999-4fb4-acea-f5d9c6dade90" />
 
-In this project we will build a chatbot using Amazon Lex with a hotel booking example, exploring intents, utterances, slots, and fulfillment, and integrated it with Amazon Connect to handle both voice and chat interactions via configured flows, communication widgets, and static web deployment on Amazon S3 and CloudFront. The system included configuring telephony, access settings, customer input blocks, success/error handling, and linking Connect flows to phone numbers and web chat widgets. After successful testing via the deployed website, all resources were systematically deleted to avoid costs.
+
+
+In this project we will build a chatbot using Amazon Lex, exploring intents, utterances, slots, and fulfillment, and integrated it with Amazon Connect to handle both voice and chat interactions via configured flows, communication widgets, and static web deployment on Amazon S3 and CloudFront. The system included configuring telephony, access settings, customer input blocks, success/error handling, and linking Connect flows to phone numbers and web chat widgets. After successful testing via the deployed website, all resources were systematically deleted to avoid costs.
 
 # Activity Guide
 
